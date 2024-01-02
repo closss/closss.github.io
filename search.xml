@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
+      <title>生产力工具——MarkText</title>
       <link href="/2024/01/02/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94MarkText/"/>
       <url>/2024/01/02/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94MarkText/</url>
       
-        <content type="html"><![CDATA[<h1 id="生产力工具——MarkText"><a href="#生产力工具——MarkText" class="headerlink" title="生产力工具——MarkText"></a>生产力工具——MarkText</h1><p>MarkText是一个优越而简洁的MarkDown工具，不出意料的话，以后的博客将会由此软件进行编写，因此将MarkText的基础用法做一个记录，刚好也作为我的第一篇博客。</p><h2 id="基本快捷键"><a href="#基本快捷键" class="headerlink" title="基本快捷键"></a>基本快捷键</h2><p> （部分输入法可能有按键冲突，用微软自带输入法基本上没问题）</p><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>一级标题</td><td># 大标题</td></tr><tr><td>二级标题</td><td>## 小标题</td></tr><tr><td>调出侧边框</td><td>Ctrl+j</td></tr><tr><td>生成新文本</td><td>Ctrl+t</td></tr><tr><td>建立表格</td><td>Ctrl+shift+t</td></tr><tr><td>生成代码块</td><td>Ctrl+shift+k</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<p>MarkText是一个优越而简洁的MarkDown工具，不出意料的话，以后的博客将会由此软件进行编写，因此将MarkText的基础用法做一个记录，刚好也作为我的第一篇博客。</p><h2 id="基本快捷键"><a href="#基本快捷键" class="headerlink" title="基本快捷键"></a>基本快捷键</h2><p> （部分输入法可能有按键冲突，用微软自带输入法基本上没问题）</p><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>一级标题</td><td># 大标题</td></tr><tr><td>二级标题</td><td>## 小标题</td></tr><tr><td>调出侧边框</td><td>Ctrl+j</td></tr><tr><td>生成新文本</td><td>Ctrl+t</td></tr><tr><td>建立表格</td><td>Ctrl+shift+t</td></tr><tr><td>生成代码块</td><td>Ctrl+shift+k</td></tr></tbody></table>]]></content>
       
       
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
       
     </entry>
     
